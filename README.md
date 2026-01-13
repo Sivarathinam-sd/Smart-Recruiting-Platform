@@ -1,1 +1,1 @@
-# resumeAnalyser
+# Smart-Recruiting-Platform
