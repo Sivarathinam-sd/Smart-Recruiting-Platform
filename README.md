@@ -1,3 +1,3 @@
-# Smart-Recruiting-Platform
+# Smart-Recruiting-Platform - (work in progress)
+<img src='hero-banner.png' >
 
-work in progress
